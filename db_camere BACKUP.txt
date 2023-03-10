@@ -1,0 +1,81 @@
+0 0 1 215 3 0 0 0 vedere-la-plaja seif cada 
+1 0 1 210 2 0 0 0 vedere-la-plaja dus 
+2 0 2 320 4 0 0 0 vedere-la-plaja pat-etajat seif dus 
+3 0 2 315 3 0 0 0 vedere-la-plaja pat-etajat dus 
+4 0 4 365 3 0 0 0 vedere-la-plaja pat-etajat dus 
+5 0 1 215 3 0 0 0 vedere-la-plaja seif cada 
+6 0 1 215 3 0 0 0 vedere-la-plaja seif cada 
+7 0 2 320 4 0 0 0 vedere-la-plaja pat-etajat seif cada 
+8 0 2 320 4 0 0 0 vedere-la-plaja pat-etajat seif dus 
+9 0 4 370 4 0 0 0 vedere-la-plaja pat-etajat seif dus 
+10 0 1 210 2 0 0 0 seif dus 
+11 0 1 205 1 0 0 0 cada 
+12 0 2 310 2 0 0 0 pat-etajat dus 
+13 0 2 315 3 0 0 0 pat-etajat seif dus 
+14 0 4 360 2 0 0 0 pat-etajat cada 
+15 0 1 210 2 0 0 0 seif dus 
+16 0 1 210 2 0 0 0 seif dus 
+17 0 2 315 3 0 0 0 pat-etajat seif dus 
+18 0 2 315 3 0 0 0 pat-etajat seif cada 
+19 0 4 365 3 0 0 0 pat-etajat seif dus 
+20 0 1 215 3 0 0 0 vedere-la-plaja seif cada 
+21 0 1 210 2 0 0 0 vedere-la-plaja cada 
+22 0 2 320 4 0 0 0 bucatarie vedere-la-plaja seif dus 
+23 0 2 320 4 0 0 0 bucatarie vedere-la-plaja seif cada 
+24 0 4 370 4 0 0 0 bucatarie vedere-la-plaja seif dus 
+25 0 1 215 3 0 0 0 vedere-la-plaja seif dus 
+26 0 1 210 2 0 0 0 vedere-la-plaja dus 
+27 0 2 320 4 0 0 0 bucatarie vedere-la-plaja uscator dus 
+28 0 2 325 5 0 0 0 bucatarie vedere-la-plaja seif uscator dus 
+29 0 4 375 5 0 0 0 bucatarie vedere-la-plaja seif uscator dus 
+30 0 1 210 2 0 0 0 seif dus 
+31 0 1 210 2 0 0 0 seif dus 
+32 0 2 320 4 0 0 0 bucatarie seif uscator dus 
+33 0 2 320 4 0 0 0 bucatarie seif uscator dus 
+34 0 4 365 3 0 0 0 bucatarie uscator dus 
+35 0 1 205 1 0 0 0 dus 
+36 0 1 210 2 0 0 0 seif dus 
+37 0 2 315 3 0 0 0 bucatarie uscator dus 
+38 0 2 315 3 0 0 0 bucatarie uscator dus 
+39 0 4 365 3 0 0 0 bucatarie uscator dus 
+40 0 1 210 2 0 0 0 vedere-la-plaja dus 
+41 0 1 210 2 0 0 0 vedere-la-plaja dus 
+42 0 2 320 4 0 0 0 bucatarie vedere-la-plaja uscator dus 
+43 0 2 320 4 0 0 0 bucatarie vedere-la-plaja uscator dus 
+44 0 4 370 4 0 0 0 bucatarie vedere-la-plaja uscator dus 
+45 0 1 210 2 0 0 0 vedere-la-plaja dus 
+46 0 1 215 3 0 0 0 vedere-la-plaja seif dus 
+47 0 2 320 4 0 0 0 bucatarie vedere-la-plaja uscator dus 
+48 0 2 325 5 0 0 0 bucatarie vedere-la-plaja seif uscator dus 
+49 0 4 370 4 0 0 0 bucatarie vedere-la-plaja uscator dus 
+50 0 1 255 1 0 0 0 dus 
+51 0 1 255 1 0 0 0 dus 
+52 0 2 370 4 0 0 0 bucatarie seif uscator dus 
+53 0 2 370 4 0 0 0 bucatarie seif uscator dus 
+54 0 4 415 3 0 0 0 bucatarie uscator dus 
+55 0 1 260 2 0 0 0 seif dus 
+56 0 1 260 2 0 0 0 seif dus 
+57 0 2 365 3 0 0 0 bucatarie uscator dus 
+58 0 2 365 3 0 0 0 bucatarie uscator dus 
+59 0 4 415 3 0 0 0 bucatarie uscator dus 
+60 0 1 260 2 0 0 0 vedere-la-plaja dus 
+61 0 1 260 2 0 0 0 vedere-la-plaja dus 
+62 0 2 370 4 0 0 0 bucatarie vedere-la-plaja uscator dus 
+63 0 2 375 5 0 0 0 bucatarie vedere-la-plaja seif uscator dus 
+64 0 4 420 4 0 0 0 bucatarie vedere-la-plaja uscator dus 
+65 0 1 260 2 0 0 0 vedere-la-plaja dus 
+66 0 1 265 3 0 0 0 vedere-la-plaja seif dus 
+67 0 2 370 4 0 0 0 bucatarie vedere-la-plaja uscator dus 
+68 0 2 375 5 0 0 0 bucatarie vedere-la-plaja seif uscator dus 
+69 0 4 425 5 0 0 0 bucatarie vedere-la-plaja seif uscator dus 
+70 0 1 255 1 0 0 0 dus 
+71 0 1 255 1 0 0 0 dus 
+72 0 2 365 3 0 0 0 bucatarie uscator dus 
+73 0 2 370 4 0 0 0 bucatarie seif uscator dus 
+74 0 4 420 4 0 0 0 bucatarie seif uscator dus 
+75 0 1 265 3 0 0 0 seif dus cada 
+76 0 1 265 3 0 0 0 seif dus cada 
+77 0 2 375 5 0 0 0 bucatarie seif uscator dus cada 
+78 0 2 370 4 0 0 0 bucatarie uscator dus cada 
+79 0 4 420 4 0 0 0 bucatarie uscator dus cada 
+80 0 1 265 3 0 0 0 vedere-la-plaja dus cada 

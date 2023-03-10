@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650371808 source:c:\users\cezar\desktop\proiecte\c\hotel_prima\main.c
+	<stdio.h>
+	<string.h>
+
